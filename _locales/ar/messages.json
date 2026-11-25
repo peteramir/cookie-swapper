@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - مبدّل الحسابات"
+  },
+  "extDescription": {
+    "message": "بدّل بين عدة حسابات على نفس الموقع دون تسجيل الخروج. احفظ وطبّق جلسات ملفات تعريف الارتباط وحدّث فورا."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Kontowechsler"
+  },
+  "extDescription": {
+    "message": "Wechsle auf derselben Website zwischen Konten. Speichere Cookie-Sitzungen und öffne sie sofort wieder."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

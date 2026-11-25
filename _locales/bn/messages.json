@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - মাল্টি অ্যাকাউন্ট সুইচার"
+  },
+  "extDescription": {
+    "message": "একই ওয়েবসাইটে লগ আউট না করে একাধিক অ্যাকাউন্ট বদলান। কুকি সেশন সংরক্ষণ ও প্রয়োগ করুন এবং সঙ্গে সঙ্গে রিফ্রেশ করুন।"
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

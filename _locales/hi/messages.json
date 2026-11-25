@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - मल्टी अकाउन्ट स्विचर"
+  },
+  "extDescription": {
+    "message": "एक ही वेबसाइट पर बिना लॉग आउट किए कई खातों के बीच स्विच करें। कुकी सत्र सहेजें और लागू करें और तुरंत रिफ्रेश करें।"
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

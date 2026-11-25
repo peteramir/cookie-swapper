@@ -1,0 +1,410 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Cambiador de Cuentas"
+  },
+  "extDescription": {
+    "message": "Cambia entre varias cuentas en el mismo sitio sin cerrar sesión. Guarda y aplica sesiones de cookies y recarga al instante."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  },
+  "quickStartEyebrow": {
+    "message": "Primeros pasos"
+  },
+  "quickStartTitle": {
+    "message": "Completa la configuración inicial."
+  },
+  "quickStartDismiss": {
+    "message": "Ocultar guía"
+  },
+  "quickStepSaveTitle": {
+    "message": "Guarda una sesión"
+  },
+  "quickStepSaveBody": {
+    "message": "Crea tu primera instantánea."
+  },
+  "quickStepOpenTitle": {
+    "message": "Abre una sesión guardada"
+  },
+  "quickStepOpenBody": {
+    "message": "Prueba el cambio rápido de cuenta."
+  },
+  "quickStepSettingsTitle": {
+    "message": "Revisa la configuración"
+  },
+  "quickStepSettingsBody": {
+    "message": "Abre Ajustes una vez."
+  },
+  "reportIssueTitle": {
+    "message": "Reportar problema del sitio"
+  },
+  "reportIssueBody": {
+    "message": "Se reportará {domain}. Puedes añadir una nota."
+  },
+  "reportIssueLabel": {
+    "message": "Nota opcional"
+  },
+  "reportIssuePlaceholder": {
+    "message": "Explica brevemente qué falla en este sitio"
+  },
+  "reportIssueConfirm": {
+    "message": "Enviar reporte"
+  },
+  "reportIssueSending": {
+    "message": "Enviando reporte..."
+  },
+  "reportIssueSuccess": {
+    "message": "Reporte recibido correctamente"
+  },
+  "reportIssueSuccessBody": {
+    "message": "Gracias. El problema del sitio ha quedado registrado."
+  },
+  "savePanelEyebrow": {
+    "message": "Guardar sesión actual"
+  },
+  "savedSmall": {
+    "message": "Sesiones guardadas"
+  },
+  "savedContextHint": {
+    "message": "Mostrando sesiones guardadas de {domain} porque este sitio te redirigió después del cambio de sesión."
+  },
+  "empty": {
+    "message": "Aún no hay sesiones guardadas."
+  },
+  "saveBtn": {
+    "message": "Guardar instantánea"
+  },
+  "labelPlaceholder": {
+    "message": "Nombre de la sesión (opcional)"
+  },
+  "applyBtn": {
+    "message": "Abrir"
+  },
+  "applyHereBtn": {
+    "message": "Abrir aquí"
+  },
+  "renameBtn": {
+    "message": "Renombrar"
+  },
+  "deleteBtn": {
+    "message": "Eliminar"
+  },
+  "reorderHandle": {
+    "message": "Reordenar sesiones"
+  },
+  "reorderFailed": {
+    "message": "No se ha podido guardar el nuevo orden."
+  },
+  "moreActions": {
+    "message": "Más acciones"
+  },
+  "saving": {
+    "message": "Guardando instantánea..."
+  },
+  "saved": {
+    "message": "Instantánea guardada. Saliendo de la sesión actual..."
+  },
+  "savedDone": {
+    "message": "Instantánea guardada y sesión actual cerrada"
+  },
+  "savedKeep": {
+    "message": "Instantánea guardada"
+  },
+  "applyNavigate": {
+    "message": "Abriendo sesión guardada..."
+  },
+  "applyHereNavigate": {
+    "message": "Abriendo sesión aquí..."
+  },
+  "logoutBtn": {
+    "message": "Cerrar sesión actual"
+  },
+  "logoutHint": {
+    "message": "Cierra esta sesión aquí. Podrás volver a abrirla después con un clic desde sesiones guardadas."
+  },
+  "loggingOut": {
+    "message": "Saliendo de la sesión actual..."
+  },
+  "logoutSuccess": {
+    "message": "Sesión actual cerrada"
+  },
+  "deleteSuccess": {
+    "message": "Sesión eliminada"
+  },
+  "renameSuccess": {
+    "message": "Sesión renombrada"
+  },
+  "domainUnavailable": {
+    "message": "No disponible en esta pestaña"
+  },
+  "currentSessionTag": {
+    "message": "Última sesión abierta con CookieSwapper"
+  },
+  "defaultLabel": {
+    "message": "Sesión guardada"
+  },
+  "settingsTitle": {
+    "message": "Configuración"
+  },
+  "settingsLangLabel": {
+    "message": "Idioma"
+  },
+  "settingsDataLabel": {
+    "message": "Datos"
+  },
+  "settingsBack": {
+    "message": "Volver"
+  },
+  "exportBtn": {
+    "message": "Exportar"
+  },
+  "exportWarningTitle": {
+    "message": "Exportar copia de sesiones"
+  },
+  "exportWarningBody": {
+    "message": "Este archivo contiene cookies y tokens que pueden dar acceso a tus cuentas. Guárdalo de forma segura y no lo compartas."
+  },
+  "exportWarningConfirm": {
+    "message": "Exportar copia"
+  },
+  "importBtn": {
+    "message": "Importar"
+  },
+  "exporting": {
+    "message": "Exportando datos..."
+  },
+  "exportSuccess": {
+    "message": "Datos exportados"
+  },
+  "importing": {
+    "message": "Importando datos..."
+  },
+  "importSuccess": {
+    "message": "Datos importados"
+  },
+  "importInvalid": {
+    "message": "Archivo JSON inválido"
+  },
+  "importTooLarge": {
+    "message": "La copia es demasiado grande para importarla"
+  },
+  "saveModeKeep": {
+    "message": "Guardar solo"
+  },
+  "saveModeClean": {
+    "message": "Guardar y salir"
+  },
+  "saveNoticeKeep": {
+    "message": "Crea una instantánea y mantiene esta sesión abierta."
+  },
+  "saveNoticeClean": {
+    "message": "Crea una instantánea y cierra la sesión actual."
+  },
+  "modalCancel": {
+    "message": "Cancelar"
+  },
+  "modalRenameTitle": {
+    "message": "Renombrar sesión"
+  },
+  "modalRenameBody": {
+    "message": "Elige un nombre más fácil de reconocer después."
+  },
+  "modalRenameLabel": {
+    "message": "Nombre de la sesión"
+  },
+  "modalRenameConfirm": {
+    "message": "Guardar"
+  },
+  "modalDeleteTitle": {
+    "message": "Eliminar sesión"
+  },
+  "modalDeleteBody": {
+    "message": "Se eliminará \"{label}\" de tus sesiones guardadas."
+  },
+  "modalDeleteConfirm": {
+    "message": "Eliminar"
+  },
+  "modalLogoutTitle": {
+    "message": "Salir de la sesión actual"
+  },
+  "modalLogoutBody": {
+    "message": "Esto cerrará la sesión actual en este sitio sin borrar las instantáneas guardadas."
+  },
+  "modalLogoutConfirm": {
+    "message": "Salir"
+  },
+  "modalCleanSaveTitle": {
+    "message": "Guardar y salir"
+  },
+  "modalCleanSaveBody": {
+    "message": "Primero se guardará la instantánea y después se cerrará la sesión actual en este sitio."
+  },
+  "modalCleanSaveConfirm": {
+    "message": "Continuar"
+  },
+  "modalInvalidSessionTitle": {
+    "message": "Sesión no válida"
+  },
+  "modalUnverifiedSessionTitle": {
+    "message": "Sesión no confirmada"
+  },
+  "modalUnverifiedSessionBody": {
+    "message": "CookieSwapper restauró los datos de la sesión, pero la página sigue mostrando opciones para iniciar sesión y ninguna señal de una cuenta activa. La sesión puede haber caducado; comprueba la página antes de continuar."
+  },
+  "unverifiedSessionNotice": {
+    "message": "La sesión se restauró, pero no se pudo confirmar el acceso"
+  },
+  "modalUnverifiedSessionExternalBody": {
+    "message": "CookieSwapper detectó cambios en los datos de esta sesión fuera de la extensión. Los datos guardados se restauraron, pero la página no muestra una cuenta activa. No es posible determinar si la sesión se cerró desde el sitio, caducó o fue revocada."
+  },
+  "unverifiedSessionExternalNotice": {
+    "message": "Se detectó un cambio externo y no se pudo confirmar el acceso"
+  },
+  "sessionConfirmedNotice": {
+    "message": "Sesión restaurada y confirmada"
+  },
+  "sessionUnknownNotice": {
+    "message": "Sesión restaurada; la página no ofrece información suficiente para confirmar el acceso"
+  },
+  "modalInvalidSessionBody": {
+    "message": "La sesión guardada no se ha podido abrir porque este sitio ya no la acepta. Puede haber caducado, haberse cerrado en otro dispositivo o haber sido invalidada por el servidor."
+  },
+  "modalInvalidSessionExternalBody": {
+    "message": "CookieSwapper detectó cambios en los datos de esta sesión fuera de la extensión y el sitio ya no la acepta. No es posible determinar si la sesión se cerró desde el sitio, caducó o fue revocada."
+  },
+  "modalInvalidSessionExternalCauseEmphasis": {
+    "message": "detectó cambios en los datos de esta sesión fuera de la extensión"
+  },
+  "modalInvalidSessionConfirm": {
+    "message": "Entendido"
+  },
+  "confirmCleanSave": {
+    "message": "Guardar y salir cerrará la sesión actual en este sitio. ¿Quieres continuar?"
+  },
+  "confirmLogout": {
+    "message": "Esto cerrará la sesión actual en este sitio. ¿Quieres continuar?"
+  },
+  "confirmDelete": {
+    "message": "Esta acción elimina la sesión guardada. ¿Continuar?"
+  },
+  "renamePrompt": {
+    "message": "Nuevo nombre de la sesión:"
+  },
+  "themeToggle": {
+    "message": "Cambiar tema"
+  },
+  "serviceUnavailable": {
+    "message": "Sin respuesta del servicio"
+  },
+  "unknownError": {
+    "message": "Error desconocido"
+  },
+  "invalidSessionNotice": {
+    "message": "La sesión guardada ya no es válida en este sitio"
+  },
+  "errorInvalidDomain": {
+    "message": "Dominio no válido"
+  },
+  "errorNoUsableSession": {
+    "message": "No se encontró una sesión útil en este sitio"
+  },
+  "errorSavedSessionNotFound": {
+    "message": "Sesión guardada no encontrada"
+  },
+  "errorApplySavedSessionFailed": {
+    "message": "No se pudo abrir la sesión guardada"
+  },
+  "errorInvalidTab": {
+    "message": "Pestaña no válida"
+  },
+  "errorEntryNotFound": {
+    "message": "Entrada no encontrada"
+  },
+  "errorInvalidName": {
+    "message": "Nombre no válido"
+  },
+  "errorUnsupportedAction": {
+    "message": "Acción no soportada"
+  },
+  "errorReportNotConfigured": {
+    "message": "El correo de reportes todavía no está configurado"
+  },
+  "errorReportFailed": {
+    "message": "No se pudo enviar el reporte"
+  },
+  "errorSessionTooLarge": {
+    "message": "Esta sesión contiene demasiados datos de página para guardarla con seguridad"
+  },
+  "errorStorageWriteFailed": {
+    "message": "No se pudieron guardar los datos de la extensión"
+  },
+  "errorStorageLimitReached": {
+    "message": "CookieSwapper ha alcanzado su límite de 32 MB para sesiones"
+  },
+  "errorCookieClearFailed": {
+    "message": "No se pudieron borrar todas las cookies de esta sesión"
+  },
+  "errorLogoutFailed": {
+    "message": "No se pudo cerrar la sesión actual de forma segura"
+  },
+  "reviewPromptEyebrow": {
+    "message": "Tu experiencia"
+  },
+  "reviewPromptTitle": {
+    "message": "¿Qué tal te funciona CookieSwapper?"
+  },
+  "reviewPromptBody": {
+    "message": "Elige una puntuación para continuar."
+  },
+  "reviewPromptFeedbackTitle": {
+    "message": "¿Qué deberíamos mejorar?"
+  },
+  "reviewPromptFeedbackBody": {
+    "message": "Cuéntanos qué ha ocurrido para que podamos mejorar CookieSwapper."
+  },
+  "reviewPromptThanksTitle": {
+    "message": "Gracias por valorar CookieSwapper"
+  },
+  "reviewPromptThanksBody": {
+    "message": "Puedes dejar una reseña honesta o enviarnos una nota privada."
+  },
+  "reviewPromptClose": {
+    "message": "Cerrar solicitud de valoración"
+  },
+  "reviewPromptStarsLabel": {
+    "message": "Valora tu experiencia con CookieSwapper"
+  },
+  "reviewPromptStarLabel": {
+    "message": "{rating} de 5 estrellas"
+  },
+  "reviewFeedbackLabel": {
+    "message": "Comentarios"
+  },
+  "reviewFeedbackPlaceholder": {
+    "message": "Cuéntanos qué ha funcionado o qué deberíamos mejorar"
+  },
+  "reviewPromptDisclosure": {
+    "message": "Solo se envían tu puntuación y esta nota cuando eliges enviar feedback."
+  },
+  "reviewFeedbackButton": {
+    "message": "Enviar"
+  },
+  "reviewFeedbackSending": {
+    "message": "Enviando feedback..."
+  },
+  "reviewStoreFailed": {
+    "message": "No se pudo abrir la página de reseñas de Chrome Web Store"
+  },
+  "reviewFeedbackRequired": {
+    "message": "Añade una breve explicación antes de enviar"
+  },
+  "reviewFeedbackInvalid": {
+    "message": "La puntuación o el feedback no son válidos"
+  },
+  "reviewFeedbackSuccess": {
+    "message": "Gracias por tu feedback"
+  },
+  "reviewFeedbackSuccessBody": {
+    "message": "Tu feedback se ha enviado correctamente."
+  }
+}

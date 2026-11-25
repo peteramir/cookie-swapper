@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Переключатель аккаунтов"
+  },
+  "extDescription": {
+    "message": "Переключайтесь между аккаунтами на одном сайте. Сохраняйте cookie-сессии и мгновенно открывайте их снова."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Multi Account Switcher"
+  },
+  "extDescription": {
+    "message": "Switch between multiple accounts on the same website without logging out. Save and apply cookie sessions and refresh instantly."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  },
+  "quickStartEyebrow": {
+    "message": "Quick start"
+  },
+  "quickStartTitle": {
+    "message": "Finish the initial setup."
+  },
+  "quickStartDismiss": {
+    "message": "Hide guide"
+  },
+  "quickStepSaveTitle": {
+    "message": "Save a session"
+  },
+  "quickStepSaveBody": {
+    "message": "Create your first snapshot."
+  },
+  "quickStepOpenTitle": {
+    "message": "Open a saved session"
+  },
+  "quickStepOpenBody": {
+    "message": "Try a quick account switch."
+  },
+  "quickStepSettingsTitle": {
+    "message": "Review settings"
+  },
+  "quickStepSettingsBody": {
+    "message": "Open Settings once."
+  },
+  "reportIssueTitle": {
+    "message": "Report site issue"
+  },
+  "reportIssueBody": {
+    "message": "{domain} will be reported. You can add a note."
+  },
+  "reportIssueLabel": {
+    "message": "Optional note"
+  },
+  "reportIssuePlaceholder": {
+    "message": "Briefly explain what is failing on this site"
+  },
+  "reportIssueConfirm": {
+    "message": "Send report"
+  },
+  "reportIssueSending": {
+    "message": "Sending report..."
+  },
+  "reportIssueSuccess": {
+    "message": "Report received successfully"
+  },
+  "reportIssueSuccessBody": {
+    "message": "Thank you. The site issue has been recorded."
+  },
+  "savePanelEyebrow": {
+    "message": "Save current session"
+  },
+  "savedSmall": {
+    "message": "Saved sessions"
+  },
+  "savedContextHint": {
+    "message": "Showing saved sessions from {domain} because this site redirected you after the session change."
+  },
+  "empty": {
+    "message": "No saved sessions yet."
+  },
+  "saveBtn": {
+    "message": "Save snapshot"
+  },
+  "labelPlaceholder": {
+    "message": "Session name (optional)"
+  },
+  "applyBtn": {
+    "message": "Open"
+  },
+  "applyHereBtn": {
+    "message": "Open here"
+  },
+  "renameBtn": {
+    "message": "Rename"
+  },
+  "deleteBtn": {
+    "message": "Delete"
+  },
+  "reorderHandle": {
+    "message": "Reorder sessions"
+  },
+  "reorderFailed": {
+    "message": "Couldn't save the new order."
+  },
+  "moreActions": {
+    "message": "More actions"
+  },
+  "saving": {
+    "message": "Saving snapshot..."
+  },
+  "saved": {
+    "message": "Snapshot saved. Exiting current session..."
+  },
+  "savedDone": {
+    "message": "Snapshot saved and current session exited"
+  },
+  "savedKeep": {
+    "message": "Snapshot saved"
+  },
+  "applyNavigate": {
+    "message": "Opening saved session..."
+  },
+  "applyHereNavigate": {
+    "message": "Opening session here..."
+  },
+  "logoutBtn": {
+    "message": "Sign out current session"
+  },
+  "logoutHint": {
+    "message": "Sign out here. You can reopen this session later with one click from saved sessions."
+  },
+  "loggingOut": {
+    "message": "Exiting current session..."
+  },
+  "logoutSuccess": {
+    "message": "Current session exited"
+  },
+  "deleteSuccess": {
+    "message": "Session deleted"
+  },
+  "renameSuccess": {
+    "message": "Session renamed"
+  },
+  "domainUnavailable": {
+    "message": "Not available on this tab"
+  },
+  "currentSessionTag": {
+    "message": "Last opened with CookieSwapper"
+  },
+  "defaultLabel": {
+    "message": "Saved session"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "settingsLangLabel": {
+    "message": "Language"
+  },
+  "settingsDataLabel": {
+    "message": "Data"
+  },
+  "settingsBack": {
+    "message": "Back"
+  },
+  "exportBtn": {
+    "message": "Export"
+  },
+  "exportWarningTitle": {
+    "message": "Export session backup"
+  },
+  "exportWarningBody": {
+    "message": "This file contains cookies and tokens that may grant access to your accounts. Store it securely and do not share it."
+  },
+  "exportWarningConfirm": {
+    "message": "Export backup"
+  },
+  "importBtn": {
+    "message": "Import"
+  },
+  "exporting": {
+    "message": "Exporting data..."
+  },
+  "exportSuccess": {
+    "message": "Data exported"
+  },
+  "importing": {
+    "message": "Importing data..."
+  },
+  "importSuccess": {
+    "message": "Data imported"
+  },
+  "importInvalid": {
+    "message": "Invalid JSON file"
+  },
+  "importTooLarge": {
+    "message": "The backup is too large to import"
+  },
+  "saveModeKeep": {
+    "message": "Save only"
+  },
+  "saveModeClean": {
+    "message": "Save and exit"
+  },
+  "saveNoticeKeep": {
+    "message": "Creates a snapshot and keeps this session open."
+  },
+  "saveNoticeClean": {
+    "message": "Creates a snapshot and exits the current session."
+  },
+  "modalCancel": {
+    "message": "Cancel"
+  },
+  "modalRenameTitle": {
+    "message": "Rename session"
+  },
+  "modalRenameBody": {
+    "message": "Choose a name that is easier to recognize later."
+  },
+  "modalRenameLabel": {
+    "message": "Session name"
+  },
+  "modalRenameConfirm": {
+    "message": "Save"
+  },
+  "modalDeleteTitle": {
+    "message": "Delete session"
+  },
+  "modalDeleteBody": {
+    "message": "\"{label}\" will be removed from your saved sessions."
+  },
+  "modalDeleteConfirm": {
+    "message": "Delete"
+  },
+  "modalLogoutTitle": {
+    "message": "Exit current session"
+  },
+  "modalLogoutBody": {
+    "message": "This exits the current session on this site without deleting saved snapshots."
+  },
+  "modalLogoutConfirm": {
+    "message": "Exit session"
+  },
+  "modalCleanSaveTitle": {
+    "message": "Save and exit"
+  },
+  "modalCleanSaveBody": {
+    "message": "The snapshot will be saved first, then the current session will be exited on this site."
+  },
+  "modalCleanSaveConfirm": {
+    "message": "Continue"
+  },
+  "modalInvalidSessionTitle": {
+    "message": "Session not valid"
+  },
+  "modalUnverifiedSessionTitle": {
+    "message": "Session not confirmed"
+  },
+  "modalUnverifiedSessionBody": {
+    "message": "CookieSwapper restored the session data, but the page still shows sign-in options and no sign of an active account. The session may have expired; check the page before continuing."
+  },
+  "unverifiedSessionNotice": {
+    "message": "The session was restored, but access could not be confirmed"
+  },
+  "modalUnverifiedSessionExternalBody": {
+    "message": "CookieSwapper detected changes to this session's data outside the extension. The saved data was restored, but the page does not show an active account. It is not possible to determine whether the session was signed out on the site, expired, or was revoked."
+  },
+  "unverifiedSessionExternalNotice": {
+    "message": "An external change was detected and access could not be confirmed"
+  },
+  "sessionConfirmedNotice": {
+    "message": "Session restored and confirmed"
+  },
+  "sessionUnknownNotice": {
+    "message": "Session restored; the page does not provide enough information to confirm access"
+  },
+  "modalInvalidSessionBody": {
+    "message": "The saved session could not be opened because this site no longer accepts it. It may have expired, been closed on another device, or been invalidated by the server."
+  },
+  "modalInvalidSessionExternalBody": {
+    "message": "CookieSwapper detected changes to this session's data outside the extension, and the site no longer accepts it. It is not possible to determine whether the session was signed out on the site, expired, or was revoked."
+  },
+  "modalInvalidSessionExternalCauseEmphasis": {
+    "message": "detected changes to this session's data outside the extension"
+  },
+  "modalInvalidSessionConfirm": {
+    "message": "OK"
+  },
+  "confirmCleanSave": {
+    "message": "Save and exit will close the current session on this site. Continue?"
+  },
+  "confirmLogout": {
+    "message": "This will close the current session on this site. Continue?"
+  },
+  "confirmDelete": {
+    "message": "This deletes the saved session. Continue?"
+  },
+  "renamePrompt": {
+    "message": "New session name:"
+  },
+  "themeToggle": {
+    "message": "Change theme"
+  },
+  "serviceUnavailable": {
+    "message": "No response from service"
+  },
+  "unknownError": {
+    "message": "Unknown error"
+  },
+  "invalidSessionNotice": {
+    "message": "The saved session is no longer valid on this site"
+  },
+  "errorInvalidDomain": {
+    "message": "Invalid domain"
+  },
+  "errorNoUsableSession": {
+    "message": "No usable session was found on this site"
+  },
+  "errorSavedSessionNotFound": {
+    "message": "Saved session not found"
+  },
+  "errorApplySavedSessionFailed": {
+    "message": "Could not open the saved session"
+  },
+  "errorInvalidTab": {
+    "message": "Invalid tab"
+  },
+  "errorEntryNotFound": {
+    "message": "Entry not found"
+  },
+  "errorInvalidName": {
+    "message": "Invalid name"
+  },
+  "errorUnsupportedAction": {
+    "message": "Unsupported action"
+  },
+  "errorReportNotConfigured": {
+    "message": "Report email is not configured yet"
+  },
+  "errorReportFailed": {
+    "message": "Could not send the report"
+  },
+  "errorSessionTooLarge": {
+    "message": "This session contains too much page storage to save safely"
+  },
+  "errorStorageWriteFailed": {
+    "message": "Could not save data in extension storage"
+  },
+  "errorStorageLimitReached": {
+    "message": "CookieSwapper has reached its 32 MB session storage limit"
+  },
+  "errorCookieClearFailed": {
+    "message": "Could not clear all cookies for this session"
+  },
+  "errorLogoutFailed": {
+    "message": "Could not safely exit the current session"
+  },
+  "reviewPromptEyebrow": {
+    "message": "Your experience"
+  },
+  "reviewPromptTitle": {
+    "message": "How is CookieSwapper working for you?"
+  },
+  "reviewPromptBody": {
+    "message": "Choose a rating to continue."
+  },
+  "reviewPromptFeedbackTitle": {
+    "message": "What should we improve?"
+  },
+  "reviewPromptFeedbackBody": {
+    "message": "Tell us what happened so we can improve CookieSwapper."
+  },
+  "reviewPromptThanksTitle": {
+    "message": "Thanks for rating CookieSwapper"
+  },
+  "reviewPromptThanksBody": {
+    "message": "You can leave an honest store review or send us a private note."
+  },
+  "reviewPromptClose": {
+    "message": "Close review prompt"
+  },
+  "reviewPromptStarsLabel": {
+    "message": "Rate your CookieSwapper experience"
+  },
+  "reviewPromptStarLabel": {
+    "message": "{rating} out of 5 stars"
+  },
+  "reviewFeedbackLabel": {
+    "message": "Feedback"
+  },
+  "reviewFeedbackPlaceholder": {
+    "message": "Tell us what worked or what we should improve"
+  },
+  "reviewPromptDisclosure": {
+    "message": "Only your rating and this note are sent when you choose to send feedback."
+  },
+  "reviewFeedbackButton": {
+    "message": "Send"
+  },
+  "reviewFeedbackSending": {
+    "message": "Sending feedback..."
+  },
+  "reviewStoreFailed": {
+    "message": "Could not open the Chrome Web Store review page"
+  },
+  "reviewFeedbackRequired": {
+    "message": "Please add a short explanation before sending"
+  },
+  "reviewFeedbackInvalid": {
+    "message": "The rating or feedback is not valid"
+  },
+  "reviewFeedbackSuccess": {
+    "message": "Thank you for the feedback"
+  },
+  "reviewFeedbackSuccessBody": {
+    "message": "Your feedback was sent successfully."
+  }
+}

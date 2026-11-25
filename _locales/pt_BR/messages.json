@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Alternador de Contas"
+  },
+  "extDescription": {
+    "message": "Alterne entre várias contas no mesmo site sem sair. Salve e aplique sessões de cookies e atualize instantaneamente."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

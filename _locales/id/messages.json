@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Pengalih Banyak Akun"
+  },
+  "extDescription": {
+    "message": "Beralih antara beberapa akun di situs yang sama tanpa keluar. Simpan dan terapkan sesi cookie dan segarkan secara instan."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - マルチアカウント切り替え"
+  },
+  "extDescription": {
+    "message": "同じサイトでログアウトせずに複数アカウントを切り替え。Cookie セッションを保存・適用し、即座に更新します。"
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}

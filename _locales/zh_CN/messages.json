@@ -1,0 +1,410 @@
+{
+  "extName": {
+    "message": "CookieSwapper - 多账号切换器"
+  },
+  "extDescription": {
+    "message": "在同一网站上无需退出即可切换多个账号。保存并应用 Cookie 会话，立即刷新。"
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  },
+  "quickStartEyebrow": {
+    "message": "快速开始"
+  },
+  "quickStartTitle": {
+    "message": "完成初始设置。"
+  },
+  "quickStartDismiss": {
+    "message": "隐藏指引"
+  },
+  "quickStepSaveTitle": {
+    "message": "保存一个会话"
+  },
+  "quickStepSaveBody": {
+    "message": "创建你的第一个快照。"
+  },
+  "quickStepOpenTitle": {
+    "message": "打开已保存会话"
+  },
+  "quickStepOpenBody": {
+    "message": "试一次快速切换账号。"
+  },
+  "quickStepSettingsTitle": {
+    "message": "查看设置"
+  },
+  "quickStepSettingsBody": {
+    "message": "打开一次设置。"
+  },
+  "reportIssueTitle": {
+    "message": "报告网站问题"
+  },
+  "reportIssueBody": {
+    "message": "将报告 {domain}。你可以添加可选说明。"
+  },
+  "reportIssueLabel": {
+    "message": "可选说明"
+  },
+  "reportIssuePlaceholder": {
+    "message": "简单说明这个网站出了什么问题"
+  },
+  "reportIssueConfirm": {
+    "message": "发送报告"
+  },
+  "reportIssueSending": {
+    "message": "正在发送报告..."
+  },
+  "reportIssueSuccess": {
+    "message": "报告已成功接收"
+  },
+  "reportIssueSuccessBody": {
+    "message": "谢谢。此网站问题已记录。"
+  },
+  "savePanelEyebrow": {
+    "message": "保存当前会话"
+  },
+  "savedSmall": {
+    "message": "已保存会话"
+  },
+  "savedContextHint": {
+    "message": "正在显示 {domain} 的已保存会话，因为这个站点在切换会话后将你重定向了。"
+  },
+  "empty": {
+    "message": "还没有已保存的会话。"
+  },
+  "saveBtn": {
+    "message": "保存快照"
+  },
+  "labelPlaceholder": {
+    "message": "会话名称（可选）"
+  },
+  "applyBtn": {
+    "message": "打开"
+  },
+  "applyHereBtn": {
+    "message": "在此打开"
+  },
+  "renameBtn": {
+    "message": "重命名"
+  },
+  "deleteBtn": {
+    "message": "删除"
+  },
+  "reorderHandle": {
+    "message": "重新排序会话"
+  },
+  "reorderFailed": {
+    "message": "无法保存新的排序。"
+  },
+  "moreActions": {
+    "message": "更多操作"
+  },
+  "saving": {
+    "message": "正在保存快照..."
+  },
+  "saved": {
+    "message": "快照已保存。正在退出当前会话..."
+  },
+  "savedDone": {
+    "message": "快照已保存，当前会话已退出"
+  },
+  "savedKeep": {
+    "message": "快照已保存"
+  },
+  "applyNavigate": {
+    "message": "正在打开已保存会话..."
+  },
+  "applyHereNavigate": {
+    "message": "正在在当前页面打开会话..."
+  },
+  "logoutBtn": {
+    "message": "退出当前会话"
+  },
+  "logoutHint": {
+    "message": "会在这里退出账号，但你之后可以从已保存会话中一键重新打开这个会话。"
+  },
+  "loggingOut": {
+    "message": "正在退出当前会话..."
+  },
+  "logoutSuccess": {
+    "message": "当前会话已退出"
+  },
+  "deleteSuccess": {
+    "message": "会话已删除"
+  },
+  "renameSuccess": {
+    "message": "会话名称已更新"
+  },
+  "domainUnavailable": {
+    "message": "此标签页不可用"
+  },
+  "currentSessionTag": {
+    "message": "CookieSwapper 上次打开的会话"
+  },
+  "defaultLabel": {
+    "message": "已保存会话"
+  },
+  "settingsTitle": {
+    "message": "设置"
+  },
+  "settingsLangLabel": {
+    "message": "语言"
+  },
+  "settingsDataLabel": {
+    "message": "数据"
+  },
+  "settingsBack": {
+    "message": "返回"
+  },
+  "exportBtn": {
+    "message": "导出"
+  },
+  "exportWarningTitle": {
+    "message": "导出会话备份"
+  },
+  "exportWarningBody": {
+    "message": "此文件包含可能用于访问你账户的 Cookie 和令牌。请安全保存，切勿分享。"
+  },
+  "exportWarningConfirm": {
+    "message": "导出备份"
+  },
+  "importBtn": {
+    "message": "导入"
+  },
+  "exporting": {
+    "message": "正在导出数据..."
+  },
+  "exportSuccess": {
+    "message": "数据已导出"
+  },
+  "importing": {
+    "message": "正在导入数据..."
+  },
+  "importSuccess": {
+    "message": "数据已导入"
+  },
+  "importInvalid": {
+    "message": "JSON 文件无效"
+  },
+  "importTooLarge": {
+    "message": "备份文件过大，无法导入"
+  },
+  "saveModeKeep": {
+    "message": "仅保存"
+  },
+  "saveModeClean": {
+    "message": "保存并退出"
+  },
+  "saveNoticeKeep": {
+    "message": "创建快照，并保持当前会话打开。"
+  },
+  "saveNoticeClean": {
+    "message": "创建快照，并退出当前会话。"
+  },
+  "modalCancel": {
+    "message": "取消"
+  },
+  "modalRenameTitle": {
+    "message": "重命名会话"
+  },
+  "modalRenameBody": {
+    "message": "选择一个以后更容易识别的名称。"
+  },
+  "modalRenameLabel": {
+    "message": "会话名称"
+  },
+  "modalRenameConfirm": {
+    "message": "保存"
+  },
+  "modalDeleteTitle": {
+    "message": "删除会话"
+  },
+  "modalDeleteBody": {
+    "message": "“{label}” 将从已保存会话中移除。"
+  },
+  "modalDeleteConfirm": {
+    "message": "删除"
+  },
+  "modalLogoutTitle": {
+    "message": "退出当前会话"
+  },
+  "modalLogoutBody": {
+    "message": "这会退出此站点上的当前会话，但不会删除已保存的快照。"
+  },
+  "modalLogoutConfirm": {
+    "message": "退出"
+  },
+  "modalCleanSaveTitle": {
+    "message": "保存并退出"
+  },
+  "modalCleanSaveBody": {
+    "message": "会先保存快照，然后退出此站点上的当前会话。"
+  },
+  "modalCleanSaveConfirm": {
+    "message": "继续"
+  },
+  "modalInvalidSessionTitle": {
+    "message": "会话无效"
+  },
+  "modalUnverifiedSessionTitle": {
+    "message": "会话未确认"
+  },
+  "modalUnverifiedSessionBody": {
+    "message": "CookieSwapper 已恢复会话数据，但页面仍显示登录选项，且没有活动账户的迹象。会话可能已过期；继续前请检查页面。"
+  },
+  "unverifiedSessionNotice": {
+    "message": "会话已恢复，但无法确认访问状态"
+  },
+  "modalUnverifiedSessionExternalBody": {
+    "message": "CookieSwapper 检测到此会话的数据在扩展程序之外发生了变化。已恢复保存的数据，但页面未显示活动账户。无法确定该会话是在网站中退出、已过期还是被撤销。"
+  },
+  "unverifiedSessionExternalNotice": {
+    "message": "检测到外部更改，无法确认访问状态"
+  },
+  "sessionConfirmedNotice": {
+    "message": "会话已恢复并确认"
+  },
+  "sessionUnknownNotice": {
+    "message": "会话已恢复；页面没有提供足够信息来确认访问状态"
+  },
+  "modalInvalidSessionBody": {
+    "message": "无法打开已保存的会话，因为该网站已不再接受它。它可能已过期，已在其他设备上关闭，或已被服务器作废。"
+  },
+  "modalInvalidSessionExternalBody": {
+    "message": "CookieSwapper 检测到此会话的数据在扩展程序之外发生了变化，并且网站已不再接受该会话。无法确定该会话是在网站中退出、已过期还是被撤销。"
+  },
+  "modalInvalidSessionExternalCauseEmphasis": {
+    "message": "检测到此会话的数据在扩展程序之外发生了变化"
+  },
+  "modalInvalidSessionConfirm": {
+    "message": "知道了"
+  },
+  "confirmCleanSave": {
+    "message": "“保存并清理” 会关闭当前站点上的当前会话。要继续吗？"
+  },
+  "confirmLogout": {
+    "message": "这将关闭当前站点上的当前会话。要继续吗？"
+  },
+  "confirmDelete": {
+    "message": "这会删除已保存的会话。要继续吗？"
+  },
+  "renamePrompt": {
+    "message": "会话新名称："
+  },
+  "themeToggle": {
+    "message": "切换主题"
+  },
+  "serviceUnavailable": {
+    "message": "服务没有响应"
+  },
+  "unknownError": {
+    "message": "未知错误"
+  },
+  "invalidSessionNotice": {
+    "message": "此网站上保存的会话已失效"
+  },
+  "errorInvalidDomain": {
+    "message": "域名无效"
+  },
+  "errorNoUsableSession": {
+    "message": "未在此网站找到可用会话"
+  },
+  "errorSavedSessionNotFound": {
+    "message": "未找到已保存会话"
+  },
+  "errorApplySavedSessionFailed": {
+    "message": "无法打开已保存会话"
+  },
+  "errorInvalidTab": {
+    "message": "标签页无效"
+  },
+  "errorEntryNotFound": {
+    "message": "未找到记录"
+  },
+  "errorInvalidName": {
+    "message": "名称无效"
+  },
+  "errorUnsupportedAction": {
+    "message": "不支持该操作"
+  },
+  "errorReportNotConfigured": {
+    "message": "报告邮件尚未配置"
+  },
+  "errorReportFailed": {
+    "message": "无法发送报告"
+  },
+  "errorSessionTooLarge": {
+    "message": "此会话的页面存储数据过大，无法安全保存"
+  },
+  "errorStorageWriteFailed": {
+    "message": "无法保存扩展程序数据"
+  },
+  "errorStorageLimitReached": {
+    "message": "CookieSwapper 已达到 32 MB 会话存储上限"
+  },
+  "errorCookieClearFailed": {
+    "message": "无法清除此会话的所有 Cookie"
+  },
+  "errorLogoutFailed": {
+    "message": "无法安全退出当前会话"
+  },
+  "reviewPromptEyebrow": {
+    "message": "你的使用体验"
+  },
+  "reviewPromptTitle": {
+    "message": "CookieSwapper 用起来怎么样？"
+  },
+  "reviewPromptBody": {
+    "message": "请选择评分以继续。"
+  },
+  "reviewPromptFeedbackTitle": {
+    "message": "我们应该改进什么？"
+  },
+  "reviewPromptFeedbackBody": {
+    "message": "请告诉我们遇到的问题，以便我们改进 CookieSwapper。"
+  },
+  "reviewPromptThanksTitle": {
+    "message": "感谢你评价 CookieSwapper"
+  },
+  "reviewPromptThanksBody": {
+    "message": "你可以留下真实的商店评价，或向我们发送私密留言。"
+  },
+  "reviewPromptClose": {
+    "message": "关闭评价提示"
+  },
+  "reviewPromptStarsLabel": {
+    "message": "评价 CookieSwapper 使用体验"
+  },
+  "reviewPromptStarLabel": {
+    "message": "5 星中的 {rating} 星"
+  },
+  "reviewFeedbackLabel": {
+    "message": "反馈"
+  },
+  "reviewFeedbackPlaceholder": {
+    "message": "请告诉我们哪些方面做得好或需要改进"
+  },
+  "reviewPromptDisclosure": {
+    "message": "只有在你选择发送反馈时，评分和此留言才会被发送。"
+  },
+  "reviewFeedbackButton": {
+    "message": "发送"
+  },
+  "reviewFeedbackSending": {
+    "message": "正在发送反馈..."
+  },
+  "reviewStoreFailed": {
+    "message": "无法打开 Chrome 网上应用店评价页面"
+  },
+  "reviewFeedbackRequired": {
+    "message": "发送前，请添加简短说明"
+  },
+  "reviewFeedbackInvalid": {
+    "message": "评分或反馈无效"
+  },
+  "reviewFeedbackSuccess": {
+    "message": "感谢你的反馈"
+  },
+  "reviewFeedbackSuccessBody": {
+    "message": "你的反馈已成功发送。"
+  }
+}

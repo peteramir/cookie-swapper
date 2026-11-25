@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "CookieSwapper - Changer de comptes"
+  },
+  "extDescription": {
+    "message": "Passez d'un compte à l'autre sur le même site. Enregistrez les sessions de cookies et rouvrez-les instantanément."
+  },
+  "actionTitle": {
+    "message": "CookieSwapper"
+  }
+}
